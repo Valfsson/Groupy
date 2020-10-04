@@ -1,0 +1,2 @@
+# Groupy
+Group membership service
