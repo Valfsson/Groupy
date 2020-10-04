@@ -1,2 +1,2 @@
 # Groupy
-Group membership service
+Group membership service providing atomic multicast
